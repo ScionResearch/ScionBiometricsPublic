@@ -4,5 +4,5 @@
 !*.csv
 !*.xlsx
 !*.r
-!*RNC.Rda
+!*RNC.rda
 #!*RNC.csv
