@@ -1,0 +1,23 @@
+/**
+# A list of files to exclude from git ignore. I.e. these files will be uploaded.
+## All r files to be included in github have little r. 
+
+!InfectionTrialRNC/
+!KilnBrownStain/
+
+!.gitignore
+!ReadMe.md
+# !*.ipynb
+# !*.py
+!*.qgs
+!*.r
+!*.rmd
+*.R
+*.rda
+*.rds
+*.RDS
+*.rdata
+*.RDATA
+*.Rmd
+*.Rproj
+*.rrd
